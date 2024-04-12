@@ -2,14 +2,10 @@
 <div align="center">
 	<img width="50%" src="images/code.gif" />
 	<hr />
-	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey,%20I%20am%20wlb-tycoon!" /> <br />
+	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey,%20I%20am%20WiLl%20Be%20Tycoon!" /> <br />
  <hr><br>
 
  <h3 align="center">A seasoned senior full-stack engineer</h3>
-
-- 🔭 I’m currently working on **Aigo Web App**
-
-- 🌱 I’m currently learning **DevOps, Docker**
 
 - 💬 Ask me about **MERN, ML/AI**
 
