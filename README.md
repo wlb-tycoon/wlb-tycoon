@@ -7,9 +7,7 @@
 
  <h3 align="center">A seasoned senior full-stack engineer</h3>
 
-- 💬 Ask me about **MERN, ML/AI**
-
-- 📫 How to reach me **algyareginald@gmail.com**
+- 💬 Ask me about **Full-stack Web Applications, ML/AI**
 
 - ⚡ Fun fact **I am Funny**
 <hr></hr>
