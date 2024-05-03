@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN, ML/AI**
 
-- 📫 How to reach me **lovinhood1015@gmail.com**
+- 📫 How to reach me **algyareginald@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 <hr></hr>
