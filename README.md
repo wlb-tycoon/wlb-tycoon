@@ -1,9 +1,5 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%20me%20introduce%20about%20me&descAlignY=55&descAlign=55" />
 <div align="center">
-	<img width="50%" src="images/code.gif" />
-	<hr />
-	<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Talented%20%20Software%20%20Engineer" /> <br />
- <hr><br>
 
  <h1 align="center">A seasoned senior full-stack engineer</h1>
 
