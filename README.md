@@ -1,4 +1,3 @@
-<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Welcome!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%20me%20introduce%20about%20me&descAlignY=55&descAlign=55" />
 <div align="center">
 	<img width="50%" src="images/code.gif" />
 	<hr />
