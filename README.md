@@ -3,7 +3,7 @@
 
  <h1 align="center">A seasoned senior full-stack engineer</h1>
 
-💬 Ask me about **Full-stack Web Applications, ML/AI**
+💬 Ask me about **ML/AI, Full-stack Web Applications**
 
 <hr></hr>
   <h1>These are my skills.</h1>
